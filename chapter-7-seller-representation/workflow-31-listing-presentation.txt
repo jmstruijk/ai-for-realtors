@@ -1,0 +1,67 @@
+WORKFLOW 31: Listing Presentation Scripts
+
+TIME SAVED: 2-3 hours per presentation
+USE CASE: Comprehensive listing presentation that wins business
+ROI IMPACT: 50-75% improvement in listing conversion rates
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a listing agent creating a comprehensive listing presentation script. Cover market analysis, pricing strategy, marketing plan, timeline, and your unique value proposition. Make it conversational but professional, addressing common seller concerns and positioning yourself as the expert guide they need.
+
+Property Type: [PROPERTY TYPE]
+Market Conditions: [CURRENT MARKET]
+Seller Motivation: [WHY THEY'RE SELLING]
+Your USP: [UNIQUE VALUE PROPOSITION]
+Length: 1500-2000 words
+Include: Questions to engage seller, objection handling, next steps
+Local Market: [YOUR AREA]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[PROPERTY TYPE] - Example: "Single-family home" or "Luxury condo"
+[CURRENT MARKET] - Example: "Hot seller's market" or "Balanced market"
+[WHY THEY'RE SELLING] - Example: "Relocating for job" or "Downsizing"
+[UNIQUE VALUE PROPOSITION] - Example: "89% of my listings sell within 30 days"
+[YOUR AREA] - Example: "Austin suburbs"
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION FOR DIFFERENT SITUATIONS:
+
+For Luxury Properties:
+• Emphasize exclusive marketing channels
+• Discuss international buyer networks
+• Include luxury-specific services (staging, security)
+• Address longer marketing timelines
+
+For Distressed Sales:
+• Focus on speed and efficiency
+• Address pricing realities honestly
+• Emphasize experience with challenging situations
+• Include investor buyer networks
+
+For Competitive Markets:
+• Emphasize differentiation strategies
+• Discuss multiple offer management
+• Include aggressive marketing timeline
+• Address pricing for quick sale
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Listing conversion rate: 75-85% (vs. 40-60% industry average)
+• Average days on market: 15-25% faster than market average
+• Sale price: 2-5% above market average
+• Seller satisfaction: 95%+ positive feedback
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

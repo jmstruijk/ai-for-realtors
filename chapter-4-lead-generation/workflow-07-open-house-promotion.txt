@@ -1,0 +1,100 @@
+WORKFLOW 7: Open House Promotion Content
+
+TIME SAVED: 2-3 hours per open house
+USE CASE: Creating comprehensive marketing for open houses
+ROI IMPACT: 50-100% increase in open house attendance
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate marketing expert specializing in open house promotion. Create a complete marketing package for an open house with content for multiple channels. Make the content exciting and specific, highlighting unique features and creating urgency.
+
+Property Details:
+- Address: [STREET ADDRESS]
+- Property Type: [SINGLE FAMILY/CONDO/TOWNHOME]
+- Bedrooms/Bathrooms: [BED/BATH]
+- Square Footage: [SQ FT]
+- Price: [LISTING PRICE]
+- Key Features: [TOP 3-5 FEATURES]
+- Neighborhood: [AREA NAME]
+
+Open House Details:
+- Date: [DAY, DATE]
+- Time: [START - END TIME]
+- Special Features: [REFRESHMENTS, GIVEAWAYS, ETC.]
+
+Create:
+1. Facebook/Instagram post (100 words, 10 hashtags)
+2. Email invitation to database (200 words)
+3. Text message blast (50 words)
+4. Flyer headline and description (150 words)
+5. Zillow/Realtor.com description (200 words)
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[STREET ADDRESS] - Example: "456 Maple Street"
+[SINGLE FAMILY/CONDO/TOWNHOME] - Choose one
+[BED/BATH] - Example: "4 Bed / 3 Bath"
+[SQ FT] - Example: "2,400 sq ft"
+[LISTING PRICE] - Example: "$485,000"
+[TOP 3-5 FEATURES] - Example: "Renovated kitchen, finished basement, huge backyard"
+[AREA NAME] - Example: "Sunset Hills"
+[DAY, DATE] - Example: "Sunday, October 27th"
+[START - END TIME] - Example: "1:00 PM - 3:00 PM"
+[REFRESHMENTS, GIVEAWAYS, ETC.] - Example: "Fresh cookies, coffee, gift baskets for first 10 visitors"
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION OPTIONS:
+
+For Different Property Types:
+• Luxury homes: Emphasize exclusivity, "private showing available," high-end finishes
+• Starter homes: Focus on affordability, first-time buyer friendly, low maintenance
+• Investment properties: Highlight rental potential, cash flow, appreciation history
+• Fixer-uppers: Emphasize potential, "bring your vision," great bones
+
+For Different Seasons:
+• Spring/Summer: Highlight outdoor spaces, natural light, gardens
+• Fall: Cozy features, fireplaces, holiday entertaining potential
+• Winter: Energy efficiency, insulation, warm and inviting spaces
+
+For Different Neighborhoods:
+• Family areas: Schools, parks, safety, community events
+• Urban: Walkability, restaurants, nightlife, public transit
+• Suburban: Space, quiet, good schools, family-friendly
+• Rural: Privacy, land, nature, peaceful setting
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Posting only once the day before (need 5-7 days advance notice)
+❌ Generic "Open House Sunday" with no details or excitement
+❌ No call-to-action or RSVP mechanism
+❌ Forgetting to include address or time clearly
+❌ Not promoting across multiple channels
+
+✅ Start promoting 7 days in advance
+✅ Post daily reminders on social media
+✅ Include specific features that create excitement
+✅ Add incentives (refreshments, giveaways) to increase attendance
+✅ Make it easy to RSVP or ask questions
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Attendance: Target 15-25 visitors (vs. 5-10 without promotion)
+• Engagement rate: 5-10% of social media followers attend
+• Email open rate: 25-35% for database invitations
+• Conversion: 10-20% of attendees request follow-up showings
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

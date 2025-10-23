@@ -1,0 +1,65 @@
+WORKFLOW 27: Buyer Consultation Scripts
+
+TIME SAVED: 1-2 hours per consultation
+USE CASE: First meeting with potential buyers
+ROI IMPACT: 60% higher buyer commitment rate
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a top buyer's agent with high consultation-to-commitment conversion. Create a 45-60 minute consultation script that flows naturally and ends with clear commitment.
+
+Structure:
+1. Opening & Rapport Building (5 min)
+2. Understanding Their Situation (15 min)
+3. Explaining Your Process (10 min)
+4. Demonstrating Your Value (10 min)
+5. Addressing Concerns (5 min)
+6. Closing for Commitment (5 min)
+
+Your market: [YOUR AREA]
+Your experience: [YEARS/CREDENTIALS]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[YOUR AREA] - Example: "Denver metro area"
+[YEARS/CREDENTIALS] - Example: "15 years experience, 500+ transactions"
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Rushing to the agreement without building rapport
+❌ Not explaining the value of exclusive representation
+❌ Being pushy or desperate
+
+✅ Build genuine connection first
+✅ Clearly articulate your value
+✅ Ask for the commitment directly
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Commitment rate: 60-70% sign buyer agreement
+• Quality of commitment: 85% actively search
+• Time to close: Committed buyers close 40% faster
+• Satisfaction: 90%+ glad they committed
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Print script and review before next consultation
+2. Practice the closing section out loud
+3. Use with next buyer consultation
+4. Expected result: 2x commitment rate
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

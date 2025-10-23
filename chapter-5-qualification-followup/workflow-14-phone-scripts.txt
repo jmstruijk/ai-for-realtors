@@ -1,0 +1,65 @@
+WORKFLOW 14: Phone Scripts for Different Lead Types
+
+TIME SAVED: 1-2 hours per week
+USE CASE: Converting phone leads to appointments
+ROI IMPACT: 40-60% improvement in phone-to-appointment conversion
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate agent known for excellent phone skills. Create phone scripts for 5 different lead types. Each script should feel conversational, include qualification questions, handle common objections, and end with a clear appointment request.
+
+Lead Types:
+1. Cold lead (online inquiry, no prior contact)
+2. Warm lead (attended open house)
+3. Hot lead (pre-approved, actively looking)
+4. Referral (from past client)
+5. FSBO/Expired listing (seller lead)
+
+For each script include:
+- Opening (first 30 seconds)
+- Qualification questions (3-5 key questions)
+- Value proposition
+- Objection handling (2-3 common objections)
+- Appointment close
+
+Your Market: [YOUR AREA]
+Your USP: [WHAT MAKES YOU DIFFERENT]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[YOUR AREA] - Example: "Denver metro area"
+[WHAT MAKES YOU DIFFERENT] - Example: "15 years experience, 200+ happy clients"
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Reading script word-for-word (sounds robotic)
+❌ Talking too much, not listening enough
+❌ Skipping qualification questions
+❌ Not asking for the appointment directly
+
+✅ Use script as guide, adapt to conversation flow
+✅ Listen more than you talk (60/40 rule)
+✅ Ask qualification questions naturally
+✅ Always end with clear next step
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Connection rate: 40-50% of calls reach actual person
+• Conversation rate: 60-70% have full conversation
+• Appointment rate: 30-40% of conversations result in appointment
+• Show rate: 70-80% of appointments actually show up
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

@@ -1,0 +1,76 @@
+WORKFLOW 20: Appointment Confirmation & Reminder Sequences
+
+TIME SAVED: 1 hour per week
+USE CASE: Reducing no-shows and last-minute cancellations
+ROI IMPACT: 40-60% reduction in no-shows
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate agent who rarely experiences no-shows due to excellent appointment management. Create confirmation and reminder sequences for different appointment types:
+
+1. Buyer showing appointment
+2. Seller consultation
+3. Listing presentation
+4. Open house commitment
+5. Closing appointment
+
+For each, create:
+- Immediate confirmation (within 5 minutes of scheduling)
+- 24-hour reminder
+- 2-hour reminder
+- Day-of logistics message
+
+Include both email and text versions.
+Make messages helpful and excitement-building, not just transactional.
+
+Your Name: [YOUR NAME]
+Your Phone: [YOUR PHONE]
+Your Style: [PROFESSIONAL/FRIENDLY]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[YOUR NAME] - Your first name
+[YOUR PHONE] - Your phone number
+[PROFESSIONAL/FRIENDLY] - Choose your communication style
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Only sending one reminder (or none)
+❌ Reminders that are too formal/transactional
+❌ Not confirming 24 hours before
+❌ Not providing clear logistics
+
+✅ Send multiple reminders at strategic times
+✅ Make reminders helpful and friendly
+✅ Always get confirmation 24 hours before
+✅ Provide specific meeting details
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• No-show rate: 5-10% (vs. 20-30% without reminders)
+• Reschedule rate: 15-20% (better than no-show)
+• Client satisfaction: 85%+ appreciate the reminders
+• Time saved: 5-8 hours per month (fewer wasted trips)
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Set up text templates for 24-hour and 2-hour reminders
+2. Set phone reminders to send them
+3. Use for next 5 appointments
+4. Expected result: Zero no-shows
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

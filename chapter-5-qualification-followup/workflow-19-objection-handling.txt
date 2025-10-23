@@ -1,0 +1,85 @@
+WORKFLOW 19: Objection Handling Scripts
+
+TIME SAVED: 1-2 hours per week
+USE CASE: Overcoming common buyer/seller objections
+ROI IMPACT: 30-50% improvement in objection-to-close conversion
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate agent who handles objections professionally and persuasively. Create responses to the 15 most common objections you hear. Each response should:
+- Acknowledge the concern (show empathy)
+- Reframe the objection (provide new perspective)
+- Provide evidence or logic (support your position)
+- Ask a question (move conversation forward)
+
+Objections to address:
+BUYER OBJECTIONS:
+1. "We want to think about it"
+2. "We want to see more houses first"
+3. "We're not sure about the neighborhood"
+4. "It's over our budget"
+5. "We're worried about the market"
+
+SELLER OBJECTIONS:
+6. "Your commission is too high"
+7. "We want to try FSBO first"
+8. "We're not sure about the price"
+9. "We want to wait for spring"
+10. "Another agent said they could get more"
+
+GENERAL OBJECTIONS:
+11. "We're not ready yet"
+12. "We need to talk to our [spouse/parents/etc.]"
+13. "We're working with another agent"
+14. "We're just looking"
+15. "Can you lower your commission?"
+
+Your market: [YOUR AREA]
+Your experience: [YEARS/CREDENTIALS]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[YOUR AREA] - Example: "Denver metro area"
+[YEARS/CREDENTIALS] - Example: "15 years experience, 500+ transactions"
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Getting defensive or argumentative
+❌ Talking over the objection without acknowledging it
+❌ Using high-pressure tactics
+❌ Not asking questions to understand the real concern
+
+✅ Listen fully before responding
+✅ Acknowledge their concern as valid
+✅ Ask questions to uncover the real issue
+✅ Provide evidence and logic, not just opinion
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Objection conversion rate: 30-50% (vs. 10-20% without scripts)
+• Confidence level: Agents report feeling 80% more confident
+• Close rate: 15-20% improvement overall
+• Time to close: 25% faster (fewer objections = faster decisions)
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Print responses to your 3 most common objections
+2. Practice each response once out loud
+3. Use on next 3 objections you hear
+4. Expected result: 2x conversion rate on those objections
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

@@ -1,0 +1,63 @@
+WORKFLOW 1: Facebook Ad Copy Generator
+
+TIME SAVED: 2-3 hours per campaign
+USE CASE: Creating multiple ad variations for A/B testing
+ROI IMPACT: 25-50% improvement in click-through rates
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a direct response copywriter specializing in real estate Facebook ads. Create 5 different ad copy variations for a [PROPERTY TYPE] in [NEIGHBORHOOD]. Each variation should be 125 words or less, include a strong hook, highlight key benefits, and end with a clear call-to-action. Target audience: [BUYER PERSONA]. Include emojis where appropriate.
+
+Property Details: [INSERT DETAILS]
+Unique Selling Points: [INSERT USPs]
+Call-to-Action: [DESIRED ACTION]
+Budget Range: [PRICE RANGE]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[PROPERTY TYPE] - Example: "3-bedroom ranch home"
+[NEIGHBORHOOD] - Example: "Sunset Hills"
+[BUYER PERSONA] - Example: "Young families with children"
+[INSERT DETAILS] - Example: "Updated kitchen, hardwood floors, large backyard, quiet cul-de-sac"
+[INSERT USPs] - Example: "Move-in ready, top-rated schools, family-friendly neighborhood"
+[DESIRED ACTION] - Example: "Schedule a showing"
+[PRICE RANGE] - Example: "$350,000-$375,000"
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION TIPS:
+
+For Luxury Properties:
+• Use sophisticated language and exclusivity angles
+• Focus on prestige, quality, and investment value
+• Emphasize unique features and premium amenities
+
+For First-Time Buyers:
+• Emphasize affordability and value
+• Include financing information and assistance
+• Focus on starter home benefits and growth potential
+
+For Investors:
+• Highlight ROI potential and cash flow
+• Include rental income estimates
+• Focus on appreciation and market trends
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Click-through rate improvement: 25-50%
+• Cost per lead reduction: 20-40%
+• Time savings: 2-3 hours per campaign
+• Conversion rate improvement: 15-30%
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

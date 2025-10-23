@@ -1,0 +1,52 @@
+WORKFLOW 4: LinkedIn Outreach Messages
+
+TIME SAVED: 45 minutes per outreach campaign
+USE CASE: Building referral partnerships with professionals
+ROI IMPACT: 3-5 new referral partners per month
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a professional real estate agent reaching out to potential referral partners on LinkedIn. Write a connection request message and a follow-up message for [TARGET PROFESSION]. Keep it professional, value-focused, and relationship-oriented.
+
+Target: [TARGET PROFESSION]
+Your Market: [YOUR LOCATION]
+Your Specialty: [YOUR NICHE]
+Mutual Benefit: [HOW YOU CAN HELP EACH OTHER]
+Length: Connection request 100 words, follow-up 150 words
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[TARGET PROFESSION] - Example: "Mortgage Brokers"
+[YOUR LOCATION] - Example: "Denver metro area"
+[YOUR NICHE] - Example: "First-time buyers"
+[HOW YOU CAN HELP EACH OTHER] - Example: "Referrals for clients needing financing"
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION OPTIONS:
+
+For Different Professions:
+• Mortgage Brokers: Focus on client financing needs
+• Financial Advisors: Emphasize wealth-building through real estate
+• Attorneys: Highlight estate planning and real estate law needs
+• CPAs: Focus on tax implications of real estate transactions
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Connection acceptance rate: 60-80%
+• Response rate: 25-40%
+• Meeting conversion: 15-25%
+• Referral partnerships: 3-5 per month
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

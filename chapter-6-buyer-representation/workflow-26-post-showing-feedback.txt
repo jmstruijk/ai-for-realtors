@@ -1,0 +1,56 @@
+WORKFLOW 26: Post-Showing Feedback Forms
+
+TIME SAVED: 30 minutes per showing day
+USE CASE: Capturing buyer reactions immediately after showings
+ROI IMPACT: 40% faster to identify "the one"
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a buyer's agent who captures showing feedback effectively. Create a post-showing feedback form that can be completed in 2-3 minutes via text or email.
+
+Include:
+- Overall rating (1-10 scale)
+- Specific feature ratings
+- What they loved / didn't love
+- Comparison to previous favorites
+- "Would you make an offer?" question
+
+Create two versions:
+1. Quick version (5 questions, 2 minutes) - for text
+2. Detailed version (10 questions, 5 minutes) - for email
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Waiting until end of day to ask for feedback
+❌ Making form too long (buyers won't complete it)
+❌ Not actually using the feedback
+
+✅ Send immediately after each showing
+✅ Keep it short and mobile-friendly
+✅ Review feedback before next showing
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Response rate: 80-90% complete feedback forms
+• Time to decision: 40% faster to identify top choice
+• Showing efficiency: 30% fewer repeat viewings needed
+• Offer confidence: Buyers feel 85% more confident
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Save quick feedback template in your phone
+2. Text it to buyers after next showing
+3. Review responses before showing more homes
+4. Expected result: Clearer picture of what they want
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

@@ -1,0 +1,55 @@
+WORKFLOW 29: Investment Property Analysis Templates
+
+TIME SAVED: 2-3 hours per property analysis
+USE CASE: Evaluating rental properties for investors
+ROI IMPACT: Attract and retain investor clients
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate agent working with investors. Create a comprehensive investment property analysis template including:
+
+- Purchase price and financing assumptions
+- Rental income projections
+- Operating expenses breakdown
+- Cash flow analysis
+- ROI calculations (cap rate, cash-on-cash, IRR)
+- Appreciation scenarios
+- Risk assessment
+- 5-year projection
+
+Format as professional 2-page analysis.
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Incomplete financial analysis
+❌ Overly optimistic projections
+❌ Not including risk assessment
+
+✅ Be conservative with estimates
+✅ Include all expenses
+✅ Show multiple scenarios
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Investor attraction: 3x more investor clients
+• Close rate: 40-60% higher with analysis
+• Repeat business: Investors come back for more properties
+• Referrals: Investors refer other investors
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Create analysis for next investment property
+2. Present to investor client
+3. Expected result: Impress investor, close deal
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

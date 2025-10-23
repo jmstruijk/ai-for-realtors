@@ -1,0 +1,43 @@
+WORKFLOW 32: Pricing Strategy Explanations
+
+TIME SAVED: 1 hour per pricing discussion
+USE CASE: Helping sellers understand market pricing realities
+ROI IMPACT: 80% reduction in pricing objections and delays
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a listing agent explaining pricing strategy to sellers who may have unrealistic expectations. Use market data and psychology to help them understand why your recommended price is correct. Be empathetic but firm, educational but not condescending.
+
+Situation: [SELLER'S PRICING CONCERN]
+Market Data: [RELEVANT COMPARABLES]
+Your Recommendation: [SUGGESTED PRICE]
+Seller's Expectation: [WHAT THEY WANT]
+Tone: Professional, empathetic, data-driven
+Length: 400-500 words
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[SELLER'S PRICING CONCERN] - Example: "Wants to price at $475K based on Zillow estimate"
+[RELEVANT COMPARABLES] - Example: "3 recent sales in neighborhood: $445K, $448K, $451K"
+[SUGGESTED PRICE] - Example: "$449,000"
+[WHAT THEY WANT] - Example: "$475,000"
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Pricing acceptance rate: 90%+ vs. 60% industry average
+• Days on market: 40% faster than overpriced listings
+• Final sale price: Often exceeds asking due to competition
+• Seller satisfaction: Higher due to realistic expectations
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

@@ -1,0 +1,66 @@
+WORKFLOW 5: Google Ads Headlines & Descriptions
+
+TIME SAVED: 1-2 hours per campaign
+USE CASE: Creating high-converting search ads
+ROI IMPACT: 30-50% improvement in click-through rates
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a Google Ads specialist for real estate. Create 10 compelling headlines (30 characters max) and 5 descriptions (90 characters max) for Google search ads targeting [BUYER TYPE] in [LOCATION]. Focus on benefits, urgency, and local expertise.
+
+Target Keywords: [PRIMARY KEYWORDS]
+Buyer Type: [BUYER PERSONA]
+Location: [YOUR MARKET]
+Unique Selling Proposition: [WHAT MAKES YOU DIFFERENT]
+Special Offers: [ANY CURRENT PROMOTIONS]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[BUYER TYPE] - Example: "First-time homebuyers"
+[LOCATION] - Example: "Denver metro area"
+[PRIMARY KEYWORDS] - Example: "Denver homes for sale, Denver real estate"
+[BUYER PERSONA] - Example: "Young families, 30-45 years old"
+[YOUR MARKET] - Example: "Denver, Colorado"
+[WHAT MAKES YOU DIFFERENT] - Example: "500+ happy families, free buyer consultation"
+[ANY CURRENT PROMOTIONS] - Example: "Free home valuation"
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Generic headlines like "Homes For Sale" (too competitive, expensive)
+❌ Exceeding character limits (ads get truncated)
+❌ No clear call-to-action in descriptions
+❌ Forgetting to add location extensions and call extensions
+
+✅ Use benefit-focused headlines: "Buy Before You Sell - How?"
+✅ Test multiple variations and pause low performers
+✅ Include specific neighborhoods for better targeting
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Click-through rate: 3-5% (vs. 1-2% industry average)
+• Cost per click: $2-4 for local real estate terms
+• Conversion rate: 10-15% of clicks to consultation requests
+• ROI: Track leads generated per $100 spent
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Copy 3 best headlines and 2 descriptions to Google Ads
+2. Set daily budget of $20 to test
+3. Add location and call extensions
+4. Expected result: 5-10 clicks in first 24 hours
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

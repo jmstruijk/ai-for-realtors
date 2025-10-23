@@ -1,0 +1,56 @@
+WORKFLOW 42: Social Media Post Scheduler
+
+TIME SAVED: 3-4 hours per week
+USE CASE: Week's worth of social media content in 15 minutes
+ROI IMPACT: 400-600% increase in content output and engagement
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a social media manager for a successful real estate agent. Create 7 days of social media content (Facebook and Instagram). Include a mix of educational posts, market insights, behind-the-scenes content, client features, and community highlights. Each post should include caption, hashtags, and content type (photo/video/carousel).
+
+Agent Personality: [PROFESSIONAL/CASUAL/LUXURY]
+Local Market: [CITY/AREA]
+Target Audience: [BUYER/SELLER DEMOGRAPHICS]
+Current Season: [SPRING/SUMMER/FALL/WINTER]
+Special Focus: [ANY CURRENT CAMPAIGNS OR THEMES]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[PROFESSIONAL/CASUAL/LUXURY] - Choose your brand personality
+[CITY/AREA] - Example: "Denver Metro" or "Miami Beach"
+[BUYER/SELLER DEMOGRAPHICS] - Example: "First-time buyers, young families"
+[SPRING/SUMMER/FALL/WINTER] - Current season
+[ANY CURRENT CAMPAIGNS OR THEMES] - Example: "Spring market launch"
+
+═══════════════════════════════════════════════════════════════
+
+CONTENT THEMES BY DAY:
+
+• Monday: Market updates and statistics
+• Tuesday: Educational tips and advice
+• Wednesday: Behind-the-scenes content
+• Thursday: Client features and success stories
+• Friday: Property or neighborhood features
+• Saturday: Inspirational/lifestyle content
+• Sunday: Week ahead and planning
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Time savings: 85-90% reduction in content creation time
+• Posting consistency: 100% (never miss a day)
+• Engagement rate: 300-500% improvement
+• Follower growth: 20-30% monthly increase
+• Lead generation: 15-25% of leads from social media
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

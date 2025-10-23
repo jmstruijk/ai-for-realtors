@@ -1,0 +1,49 @@
+WORKFLOW 18: Cold Lead Reactivation
+
+TIME SAVED: 2-3 hours per campaign
+USE CASE: Re-engaging leads that have gone cold (30+ days no contact)
+ROI IMPACT: 15-20% of cold leads can be reactivated
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate agent reactivating cold leads (30+ days no contact). Create a 3-email reactivation sequence that:
+- Acknowledges the time gap without being awkward
+- Provides new value or information
+- Gives a compelling reason to re-engage
+- Makes it easy to respond or opt-out
+
+Lead context: [BUYER/SELLER], last contact [TIME AGO], original interest [WHAT THEY WANTED]
+
+Email 1: Market change angle (something new has happened)
+Email 2: Success story angle (helped someone in similar situation)
+Email 3: Direct ask angle (are you still interested?)
+
+Space emails 5-7 days apart.
+Your market: [YOUR AREA]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[BUYER/SELLER] - Choose: "BUYER" or "SELLER"
+[TIME AGO] - Example: "3 months ago"
+[WHAT THEY WANTED] - Example: "3-bedroom home in Oak Hills under $400K"
+[YOUR AREA] - Example: "Denver metro area"
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Reactivation rate: 15-20% of cold leads re-engage
+• Response rate: 10-15% respond to sequence
+• Conversion rate: 5-8% eventually close
+• ROI: 1-2 transactions per 100 cold leads contacted
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

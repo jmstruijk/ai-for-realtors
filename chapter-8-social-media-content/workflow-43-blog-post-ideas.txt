@@ -1,0 +1,43 @@
+WORKFLOW 43: Blog Post Ideas & Outlines
+
+TIME SAVED: 2-3 hours per blog post
+USE CASE: SEO-friendly content that attracts organic traffic
+ROI IMPACT: 200-400% increase in website traffic and leads
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a content marketing specialist for real estate agents. Generate 10 blog post ideas with detailed outlines for [TARGET AUDIENCE] in [LOCAL MARKET]. Include SEO-friendly titles, key points to cover, and call-to-action suggestions.
+
+Target Audience: [BUYER/SELLER TYPE]
+Local Market: [YOUR AREA]
+Content Goals: [EDUCATION/LEAD GENERATION/SEO]
+Word Count: 800-1200 words per post
+Include: Local market insights, actionable tips, SEO keywords
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[TARGET AUDIENCE] - Example: "First-time home buyers"
+[LOCAL MARKET] - Example: "Denver Metro area"
+[BUYER/SELLER TYPE] - Example: "First-time buyers" or "Luxury sellers"
+[YOUR AREA] - Your city/region
+[EDUCATION/LEAD GENERATION/SEO] - Primary goal
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Organic traffic increase: 200-400%
+• Lead generation: 10-15 leads per month from blog
+• SEO ranking: Top 10 for target keywords
+• Content authority: Recognized as local expert
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

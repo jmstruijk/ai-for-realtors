@@ -1,0 +1,69 @@
+WORKFLOW 39: Price Reduction Recommendation Scripts
+
+TIME SAVED: 1-2 hours per difficult conversation
+USE CASE: Convincing sellers to reduce overpriced listings
+ROI IMPACT: 60% of overpriced listings sell after strategic reduction
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a listing agent who handles price reduction conversations professionally. Create script for recommending price reduction including:
+
+- Empathetic opening
+- Market data presentation
+- Why current price isn't working
+- Cost of waiting vs. reducing
+- Specific new price recommendation
+- Expected outcome with reduction
+- Handling objections
+
+Situation:
+- Original price: [PRICE]
+- Days on market: [DAYS]
+- Showings: [NUMBER]
+- Recommended new price: [PRICE]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[PRICE] - Original listing price
+[DAYS] - Days on market
+[NUMBER] - Number of showings
+[PRICE] - Your recommended new price
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Being confrontational or blaming seller
+❌ Not having data to support recommendation
+❌ Not showing cost of waiting
+
+✅ Lead with empathy and data
+✅ Show scenarios and outcomes
+✅ Make specific recommendation
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Acceptance rate: 60-70% (vs. 30-40% without script)
+• Listings sold: 60% sell after reduction
+• Relationship maintained: 90% appreciate professional approach
+• Time to sale: 50% faster after reduction
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Use script for next price reduction conversation
+2. Prepare data beforehand
+3. Expected result: Higher acceptance rate
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

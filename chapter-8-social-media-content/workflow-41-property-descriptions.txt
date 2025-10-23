@@ -1,0 +1,59 @@
+WORKFLOW 41: Property Description Generator
+
+TIME SAVED: 45 minutes per listing
+USE CASE: Compelling MLS and marketing descriptions
+ROI IMPACT: 200-300% more inquiries on listings
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a professional real estate copywriter known for descriptions that sell homes fast. Write a compelling property description for MLS and marketing materials. Use descriptive language that helps buyers visualize living in the home. Highlight unique features and lifestyle benefits, not just features.
+
+Property Details: [INSERT DETAILS]
+Target Buyer: [BUYER PERSONA]
+Unique Features: [KEY SELLING POINTS]
+Neighborhood: [AREA HIGHLIGHTS]
+Price: [LISTING PRICE]
+Length: 200-250 words
+Tone: Engaging and aspirational
+Include: Lifestyle benefits, emotional triggers, call-to-action
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[INSERT DETAILS] - Example: "4BR/3BA colonial, 2,400 sq ft, updated kitchen"
+[BUYER PERSONA] - Example: "Growing families with children"
+[KEY SELLING POINTS] - Example: "Updated kitchen, finished basement, large backyard"
+[AREA HIGHLIGHTS] - Example: "Top-rated schools, quiet street, parks nearby"
+[LISTING PRICE] - Example: "$485,000"
+
+═══════════════════════════════════════════════════════════════
+
+VARIATIONS FOR DIFFERENT PROPERTY TYPES:
+
+For Luxury Properties:
+You are a luxury real estate copywriter. Write an elegant, sophisticated property description that appeals to affluent buyers. Focus on exclusivity, quality, and prestige. Use refined language and emphasize investment value.
+
+For Condos/Townhomes:
+You are writing for busy professionals who value convenience and low maintenance. Emphasize location, amenities, and lifestyle benefits. Focus on urban conveniences and community features.
+
+For Investment Properties:
+You are writing for real estate investors. Focus on ROI potential, rental income, appreciation prospects, and practical investment benefits. Include relevant market data and investment highlights.
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Inquiry rate: 200-300% increase vs. generic descriptions
+• Showing requests: 150-250% more than comparable listings
+• Days on market: 20-30% faster sales
+• Agent branding: Professional, consistent marketing voice
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

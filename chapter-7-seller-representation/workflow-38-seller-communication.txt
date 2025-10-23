@@ -1,0 +1,55 @@
+WORKFLOW 38: Seller Communication Templates
+
+TIME SAVED: 1-2 hours per week per listing
+USE CASE: Keeping sellers informed throughout listing period
+ROI IMPACT: 90% seller satisfaction, fewer anxious calls
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a listing agent who excels at seller communication. Create weekly update email template for active listings including:
+
+- Showing Activity Summary
+- Buyer Feedback Compilation
+- Marketing Metrics
+- Market Update
+- Recommendations
+- Next Week's Plan
+- Questions Answered
+
+Tone: Professional, reassuring, proactive
+Length: 300-400 words
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Inconsistent communication
+❌ Only contacting when there's bad news
+❌ Generic updates with no specifics
+
+✅ Send weekly updates consistently
+✅ Include both good and challenging news
+✅ Provide specific data and recommendations
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Seller satisfaction: 90%+ (vs. 60-70% without updates)
+• Anxious calls: 70% reduction
+• Trust level: Significantly higher
+• Referrals: More likely to refer
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Send weekly update to all active listings
+2. Include specific data
+3. Expected result: Happier sellers, fewer calls
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

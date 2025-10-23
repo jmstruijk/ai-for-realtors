@@ -1,0 +1,67 @@
+WORKFLOW 47: Neighborhood Guide Templates
+
+TIME SAVED: 4-5 hours per guide
+USE CASE: Creating comprehensive neighborhood guides for SEO
+ROI IMPACT: Rank in Google, generate organic leads
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a local area expert creating neighborhood guides. Create comprehensive template for neighborhood guides (1,500-2,000 words, SEO optimized).
+
+Include sections for:
+1. Neighborhood Overview
+2. Demographics & Statistics
+3. Schools & Education
+4. Parks & Recreation
+5. Dining & Shopping
+6. Transportation & Commute
+7. Housing Market Data
+8. Pros & Cons
+9. Who Should Live Here
+10. Local Insider Tips
+
+Neighborhood: [NAME]
+Include placeholder for photos/maps
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[NAME] - Example: "Cherry Creek" or "Capitol Hill"
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Generic information anyone can find
+❌ Too short (under 1,000 words)
+❌ Not SEO optimized
+
+✅ Include insider knowledge
+✅ Comprehensive (1,500+ words)
+✅ Optimize for search
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• SEO ranking: Top 10 for neighborhood keywords
+• Organic traffic: 200-400% increase
+• Lead generation: 10-15 leads per month per guide
+• Authority: Recognized as neighborhood expert
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Create guide for top neighborhood
+2. Publish on website
+3. Expected result: Rank in Google within 30 days
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

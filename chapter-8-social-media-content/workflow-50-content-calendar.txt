@@ -1,0 +1,62 @@
+WORKFLOW 50: Personal Branding Content Calendar
+
+TIME SAVED: 5-6 hours per month
+USE CASE: Planning and creating consistent personal brand content
+ROI IMPACT: Consistent posting increases followers by 200%
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a social media strategist for real estate agents. Create 30-day content calendar that makes consistent posting easy.
+
+Daily themes:
+- Monday: Market Monday (stats, trends)
+- Tuesday: Tip Tuesday (advice)
+- Wednesday: Win Wednesday (success, celebration)
+- Thursday: Throwback Thursday (past sales)
+- Friday: Feature Friday (listing, neighborhood)
+- Weekend: Personal/lifestyle content
+
+For each day provide:
+- Post topic/idea
+- Post copy template (150-200 words)
+- Hashtag suggestions (10-15)
+- Image/video ideas
+- Best time to post
+- Engagement strategy
+
+Include 60/30/10 rule: 60% educational, 30% promotional, 10% personal
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Posting sporadically
+❌ Too much promotional content
+❌ No variety in content types
+
+✅ Post daily consistently
+✅ Follow 60/30/10 rule
+✅ Mix formats (text, image, video)
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Follower growth: 200% increase
+• Engagement: 150% improvement
+• Consistency: Post daily without stress
+• Lead generation: 10-15 leads per month from social
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Use calendar for next 30 days
+2. Schedule posts in advance
+3. Expected result: Grow following by 25%
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

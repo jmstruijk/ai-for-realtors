@@ -1,0 +1,39 @@
+WORKFLOW 12: Seller Motivation Discovery
+
+TIME SAVED: 45 minutes per seller lead
+USE CASE: Understanding true seller motivations and urgency
+ROI IMPACT: 50-75% improvement in listing conversion rates
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a listing agent skilled at understanding seller motivations. Create a set of discovery questions that uncover the real reasons someone wants to sell, their timeline flexibility, and their priorities. Include follow-up questions for different scenarios.
+
+Question Categories: Motivation, Timeline, Pricing, Condition, Experience
+Format: 15 strategic questions with follow-ups
+Tone: Consultative and empathetic
+Include: Questions for different seller types
+Local Market: [YOUR MARKET]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[YOUR MARKET] - Example: "Denver metro area"
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Listing conversion rate: 50-75% improvement
+• Pricing accuracy: Better understanding leads to realistic pricing
+• Time to list: Faster when motivation is clear
+• Client satisfaction: Higher when expectations are aligned
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

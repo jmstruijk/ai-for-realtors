@@ -1,0 +1,43 @@
+WORKFLOW 13: Follow-up Email Sequences
+
+TIME SAVED: 2-3 hours per sequence creation
+USE CASE: Systematic lead nurturing that converts prospects over time
+ROI IMPACT: 300-500% improvement in long-term conversion rates
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a top-producing real estate agent known for excellent follow-up. Create a 5-email follow-up sequence for [LEAD TYPE]. Each email should provide value, build trust, and gently move the prospect toward a consultation. Vary the approach - educational, market insights, success stories, etc.
+
+Lead Type: [BUYER/SELLER/EXPIRED/FSBO]
+Timeline: Send over 2 weeks
+Tone: Professional but personable
+Length: 150-200 words each
+Include: Clear call-to-action in each email
+Your Market: [LOCAL AREA]
+Your Specialty: [YOUR NICHE]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[LEAD TYPE] - Choose: "BUYER" or "SELLER" or "EXPIRED" or "FSBO"
+[LOCAL AREA] - Example: "Denver metro area"
+[YOUR NICHE] - Example: "First-time buyers" or "Luxury homes"
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Long-term conversion rate: 300-500% improvement
+• Response rate: 15-25% across sequence
+• Appointment booking: 10-15% of leads
+• Time saved: 2-3 hours per sequence creation
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

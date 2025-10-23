@@ -1,0 +1,59 @@
+WORKFLOW 44: Email Newsletter Templates
+
+TIME SAVED: 2-3 hours per newsletter
+USE CASE: Monthly communication with database
+ROI IMPACT: 20-30% of business from newsletter subscribers
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate marketing expert. Create 12 monthly email newsletter templates (300-400 words each) for real estate agents. Each should provide value, include market update, and have clear call-to-action.
+
+Monthly themes:
+January: New year market predictions
+February: Winter home maintenance
+March: Spring selling season preview
+April: Buyer's market update
+May: Summer home prep
+June: Vacation home security
+July: Mid-year market review
+August: Back-to-school neighborhoods
+September: Fall maintenance checklist
+October: Year-end tax planning
+November: Holiday home safety
+December: Year in review + gratitude
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Only sending when you need something
+❌ Too salesy (no value provided)
+❌ Inconsistent sending schedule
+
+✅ Send monthly on same day
+✅ Provide value first, sell second
+✅ Keep it conversational
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Open rate: 35-45% (vs. 20-25% industry average)
+• Click rate: 8-12%
+• Referrals: 20-30% of business from subscribers
+• Engagement: 5-10% reply to newsletters
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Use next month's template
+2. Customize with local data
+3. Send to database
+4. Expected result: 3-5 responses, 1-2 leads
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

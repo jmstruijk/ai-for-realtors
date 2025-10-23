@@ -1,0 +1,73 @@
+WORKFLOW 11: Buyer Qualification Questions
+
+TIME SAVED: 30 minutes per lead
+USE CASE: Comprehensive buyer qualification that feels consultative
+ROI IMPACT: 40-60% improvement in lead scoring accuracy
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are an experienced buyer's agent known for excellent client service. Create a comprehensive but conversational qualification questionnaire for potential home buyers. Include questions about budget, timeline, location preferences, must-haves vs. nice-to-haves, financing status, and motivation. Make it feel like a helpful consultation, not an interrogation.
+
+Format: 20 strategic questions
+Tone: Professional but friendly
+Include: Follow-up questions for key areas
+Organize: By priority (most important first)
+Target: [BUYER TYPE]
+Local Market: [YOUR AREA]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[BUYER TYPE] - Example: "First-time buyers" or "Move-up buyers" or "Investors"
+[YOUR AREA] - Example: "Denver metro area"
+
+═══════════════════════════════════════════════════════════════
+
+LEAD SCORING SYSTEM:
+
+A-Level Lead (Ready to Buy - 15+ Points):
+• Pre-approved or strong financial position (5 points)
+• Timeline within 90 days (3 points)
+• Specific location preferences (2 points)
+• Realistic expectations (2 points)
+• Decision maker present (2 points)
+• Clear motivation (1 point)
+
+B-Level Lead (Serious but Longer Timeline - 10-14 Points):
+• Financial qualification in progress (3 points)
+• Timeline 3-6 months (2 points)
+• General area preferences (1 point)
+• Researching actively (2 points)
+• Some urgency (2 points)
+
+C-Level Lead (Early Stage - 5-9 Points):
+• Not yet financially qualified (1 point)
+• Timeline 6+ months (1 point)
+• Just browsing (1 point)
+• Unclear preferences (1 point)
+• Low urgency (1 point)
+
+D-Level Lead (Not Qualified - 0-4 Points):
+• No financial qualification
+• No clear timeline
+• Just curious
+• Unrealistic expectations
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Lead scoring accuracy: 40-60% improvement
+• Time saved per lead: 30 minutes
+• A-level lead identification: 80%+ accuracy
+• Conversion rate: 2x higher with proper qualification
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

@@ -1,0 +1,64 @@
+WORKFLOW 25: Home Search Criteria Questionnaire
+
+TIME SAVED: 2-3 hours per buyer
+USE CASE: Defining precise buyer needs before showing homes
+ROI IMPACT: 50% fewer unnecessary showings, 40% faster to find "the one"
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a buyer's agent who excels at understanding client needs. Create a comprehensive home search criteria questionnaire with 25-30 questions organized into categories. For each question, provide why you're asking it and how to use the answer.
+
+Categories:
+1. Basic Requirements (5 questions)
+2. Location & Lifestyle (8 questions)
+3. Property Features (7 questions)
+4. Financial Considerations (5 questions)
+5. Timeline & Motivation (5 questions)
+
+Market: [YOUR AREA]
+Buyer type: [FIRST-TIME/MOVE-UP/LUXURY/INVESTOR]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[YOUR AREA] - Example: "Denver metro area"
+[FIRST-TIME/MOVE-UP/LUXURY/INVESTOR] - Choose buyer type
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Asking all questions in one sitting (overwhelming)
+❌ Not explaining why you're asking each question
+❌ Ignoring answers and showing wrong properties
+
+✅ Break questionnaire into 2-3 conversations
+✅ Explain the purpose of each section
+✅ Actually use the answers to filter properties
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Showing efficiency: 50% reduction in unnecessary showings
+• Time to find home: 40% faster (6 weeks vs. 10 weeks average)
+• Buyer satisfaction: 90%+ feel understood
+• Offer confidence: 85% make offer on first or second favorite
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Send first 10 questions to next buyer
+2. Review answers before scheduling showings
+3. Show only homes matching top 5 priorities
+4. Expected result: 50% fewer showings, happier buyer
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

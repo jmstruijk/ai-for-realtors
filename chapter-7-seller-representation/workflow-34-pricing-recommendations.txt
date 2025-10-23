@@ -1,0 +1,66 @@
+WORKFLOW 34: Pricing Strategy Recommendations
+
+TIME SAVED: 2-3 hours per pricing analysis
+USE CASE: Helping sellers accept market-based pricing
+ROI IMPACT: Properly priced listings sell 25% faster
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a listing agent known for pricing strategy expertise. Create comprehensive pricing recommendation including:
+
+- Detailed CMA with 6-10 comparables
+- Pricing tiers analysis
+- Days on market by price point
+- Competition analysis
+- Pricing strategy recommendation
+- "What if we price too high" scenario
+- "What if we price strategically" scenario
+
+Property: [ADDRESS, DETAILS]
+Seller's desired price: [AMOUNT]
+Market value: [AMOUNT]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[ADDRESS, DETAILS] - Example: "456 Maple Dr, 3BR/2BA, 1,800 sq ft, updated kitchen"
+[AMOUNT] - Seller's desired price
+[AMOUNT] - Your market value assessment
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Not showing data to support recommendation
+❌ Being wishy-washy about pricing
+❌ Not explaining cost of overpricing
+
+✅ Use data and comparables
+✅ Be confident in your recommendation
+✅ Show scenarios and outcomes
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Pricing acceptance: 90%+ (vs. 60% without analysis)
+• Days on market: 40% faster than overpriced listings
+• Final sale price: Often exceeds asking due to competition
+• Seller satisfaction: Higher due to realistic expectations
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Create pricing analysis for next listing
+2. Present with confidence
+3. Expected result: Seller accepts your price
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

@@ -1,0 +1,58 @@
+WORKFLOW 40: Open House Host Scripts
+
+TIME SAVED: 30 minutes per open house
+USE CASE: Maximizing lead generation at open houses
+ROI IMPACT: 40% more qualified leads per open house
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are an open house expert who converts 60% of visitors to leads. Create conversation scripts for 6 visitor types:
+
+1. Serious buyers
+2. Curious neighbors
+3. "Just browsing"
+4. Potential sellers
+5. Investors
+6. Difficult visitors
+
+For each include:
+- Greeting (first 30 seconds)
+- Qualification questions
+- Feature highlighting
+- Contact capture
+- Follow-up commitment
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Being too pushy or salesy
+❌ Not qualifying visitors
+❌ Letting people leave without contact info
+
+✅ Be friendly and helpful first
+✅ Ask qualifying questions naturally
+✅ Always capture contact information
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Lead capture: 40-60% of visitors (vs. 20-30% without scripts)
+• Quality leads: 70% are qualified
+• Follow-up rate: 80% agree to follow-up
+• Conversions: 10-15% eventually transact
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Use scripts at next open house
+2. Practice greetings beforehand
+3. Expected result: 2x lead capture rate
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

@@ -1,0 +1,58 @@
+WORKFLOW 37: Listing Description Templates
+
+TIME SAVED: 30-45 minutes per listing
+USE CASE: Writing compelling MLS and marketing descriptions
+ROI IMPACT: 30% more showing requests
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate copywriter who writes descriptions that generate showings. Create listing description templates for 6 property types (150-250 words each):
+
+1. Luxury home ($1M+)
+2. Family home (suburban, 3-4 bed)
+3. Starter home/condo
+4. Investment property
+5. Fixer-upper
+6. Unique property
+
+Each should:
+- Hook readers in first sentence
+- Highlight key features compellingly
+- Paint lifestyle picture
+- Create urgency
+- Include strong call-to-action
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Generic, boring descriptions
+❌ Too long (over 300 words)
+❌ No call-to-action
+
+✅ Use template but customize
+✅ Keep it scannable and compelling
+✅ Always include clear CTA
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Showing requests: 30% more than generic descriptions
+• Online engagement: 50% more clicks/views
+• Quality inquiries: Better qualified leads
+• Time saved: 30-45 minutes per listing
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Use template for next listing
+2. Customize key details
+3. Expected result: More showing requests
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

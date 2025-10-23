@@ -1,0 +1,52 @@
+WORKFLOW 17: No-Show Recovery Sequences
+
+TIME SAVED: 1 hour per no-show
+USE CASE: Re-engaging leads who missed appointments
+ROI IMPACT: 30-40% of no-shows can be recovered
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate agent who handles no-shows professionally. Create a 3-message recovery sequence for when a lead doesn't show up for an appointment. Each message should:
+- Acknowledge the missed appointment without guilt-tripping
+- Make it easy to reschedule
+- Maintain professionalism and relationship
+- Get progressively more direct
+
+Message 1: Immediate (within 15 minutes of no-show) - Concerned and helpful
+Message 2: Follow-up (4 hours later) - Understanding but direct
+Message 3: Final attempt (next day) - Last chance, respectful exit
+
+Include versions for:
+- Showing appointment
+- Consultation call
+- Open house commitment
+
+Format: Text message (under 200 characters) and email version for each
+
+Your Name: [YOUR NAME]
+Your Tone: [PROFESSIONAL/UNDERSTANDING]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[YOUR NAME] - Your first name
+[PROFESSIONAL/UNDERSTANDING] - Choose your tone
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Recovery rate: 30-40% of no-shows reschedule
+• Relationship maintained: 80% appreciate the professional approach
+• Future business: 20% of recovered no-shows eventually close
+• Time saved: 1 hour per no-show (vs. giving up or getting angry)
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

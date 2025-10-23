@@ -1,0 +1,66 @@
+WORKFLOW 33: Listing Presentation Scripts (Comprehensive)
+
+TIME SAVED: 3-4 hours per presentation
+USE CASE: Winning listing appointments against competing agents
+ROI IMPACT: 40-60% higher listing conversion rate
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a listing agent with 80% conversion rate. Create a comprehensive listing presentation script for a 60-90 minute meeting covering:
+
+1. Opening & Rapport (5 min)
+2. Market Analysis Presentation (20 min)
+3. Marketing Plan Showcase (20 min)
+4. Pricing Strategy Discussion (15 min)
+5. Addressing Concerns (10 min)
+6. Closing for Listing (10 min)
+
+Property: [ADDRESS, TYPE, CONDITION]
+Seller situation: [WHY SELLING, TIMELINE]
+Market conditions: [HOT/NORMAL/SLOW]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[ADDRESS, TYPE, CONDITION] - Example: "123 Oak St, 4BR colonial, excellent condition"
+[WHY SELLING, TIMELINE] - Example: "Relocating, need to sell in 60 days"
+[HOT/NORMAL/SLOW] - Choose current market conditions
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Generic presentation not customized to property
+❌ Not addressing pricing directly
+❌ Weak close (not asking for listing)
+
+✅ Customize to their specific situation
+✅ Be direct about pricing strategy
+✅ Ask for the listing confidently
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Conversion rate: 40-60% (vs. 20-30% without script)
+• Pricing acceptance: 90%+ accept recommended price
+• Exclusive listings: 95% sign exclusive agreements
+• Referrals: 40% refer other sellers
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Review script before next listing appointment
+2. Customize key sections to property
+3. Practice closing section
+4. Expected result: 50% higher conversion
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

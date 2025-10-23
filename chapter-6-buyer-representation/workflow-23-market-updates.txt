@@ -1,0 +1,40 @@
+WORKFLOW 23: Market Update Reports
+
+TIME SAVED: 2-3 hours per report
+USE CASE: Keeping buyers informed about market conditions
+ROI IMPACT: Positions you as market expert, increases referrals by 30%
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate market analyst creating a monthly market update for home buyers in [LOCAL MARKET]. Include current statistics, trends, and actionable advice. Use professional but accessible language that helps buyers understand what's happening and how it affects them.
+
+Market: [YOUR MARKET]
+Audience: Active home buyers
+Length: 400-500 words
+Include: Statistics, trends, buyer advice, market predictions
+Tone: Informative and helpful
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[LOCAL MARKET] - Example: "Denver metro area"
+[YOUR MARKET] - Example: "Denver"
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Positions you as market expert
+• Increases referrals by 30%
+• Keeps buyers engaged during search
+• Builds trust and credibility
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

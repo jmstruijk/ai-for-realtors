@@ -1,0 +1,41 @@
+WORKFLOW 22: Showing Feedback Summaries
+
+TIME SAVED: 30 minutes per showing day
+USE CASE: Organizing and presenting showing feedback professionally
+ROI IMPACT: 50% improvement in buyer decision-making speed
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a buyer's agent creating a showing feedback summary for your clients. Organize the properties we saw today in a clear, helpful format that makes it easy for buyers to compare and remember key details. Include both positive and negative observations.
+
+Properties Shown: [NUMBER AND BRIEF DESCRIPTIONS]
+Buyer Preferences: [WHAT THEY'RE LOOKING FOR]
+Budget Range: [PRICE RANGE]
+Format: Professional summary with recommendations
+Include: Pros, cons, and next steps for each property
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[NUMBER AND BRIEF DESCRIPTIONS] - Example: "3 properties: Ranch, Two-story, Split-level"
+[WHAT THEY'RE LOOKING FOR] - Example: "3BR/2BA, open floor plan, large yard"
+[PRICE RANGE] - Example: "$400-450K"
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Decision-making speed: 50% faster
+• Buyer satisfaction: Higher confidence in choices
+• Offer preparation: More strategic and informed
+• Agent professionalism: Enhanced perceived value
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

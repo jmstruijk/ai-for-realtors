@@ -1,0 +1,91 @@
+WORKFLOW 6: Referral Request Scripts
+
+TIME SAVED: 1-2 hours per month
+USE CASE: Systematically requesting referrals from past clients
+ROI IMPACT: 30-50% increase in referral business
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate agent known for exceptional client service and strong referral business. Create 5 different referral request scripts for the following scenarios. Make each request feel natural, not pushy. Include a specific reason why NOW is a good time to refer, and make it easy for clients to take action.
+
+Scenarios:
+1. Recent closing (within 30 days)
+2. 6-month post-closing check-in
+3. Anniversary of closing (1 year)
+4. Client mentions knowing someone who might buy/sell
+5. Holiday/seasonal outreach
+
+Your Unique Value: [WHAT MAKES YOU DIFFERENT]
+Recent Success: [SPECIFIC RECENT WIN]
+Referral Incentive: [IF ANY - e.g., gift card, donation to charity]
+Tone: Grateful and helpful, not desperate
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[WHAT MAKES YOU DIFFERENT] - Example: "White-glove service, 18-day average closing time"
+[SPECIFIC RECENT WIN] - Example: "Just helped a family in Oak Hills close in 18 days"
+[IF ANY] - Example: "$50 Starbucks gift card" or "$100 donation to local charity"
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION OPTIONS:
+
+For Different Client Types:
+• First-time buyers: Emphasize helping their friends avoid mistakes
+• Move-up buyers: Mention helping with investment properties or downsizing parents
+• Luxury clients: Focus on discretion and high-end service
+• Investors: Ask for referrals to other investors or property managers
+
+For Different Timing:
+• Immediate post-closing: Gratitude-focused, light ask
+• 3-6 months: Check-in focused, medium ask
+• 1+ year: Relationship maintenance, stronger ask
+
+For Different Incentives:
+• Gift cards: "$50 Starbucks gift card for every referral"
+• Charity donations: "I'll donate $100 to [Charity] in your name"
+• Client events: "Exclusive invite to my annual client appreciation party"
+• No incentive: "Your trust and referrals mean everything to me"
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Asking too soon (wait at least 2 weeks post-closing)
+❌ Generic "Do you know anyone?" requests (be specific about who you help)
+❌ Only asking once (systematic follow-up is key)
+❌ Making it complicated (don't require forms or lengthy processes)
+❌ Forgetting to thank them when referrals come in
+
+✅ Make it easy: "Just reply with their name and number"
+✅ Provide value first: "How's the house? Any issues I can help with?"
+✅ Be specific: "I'm looking for 3 more buyers in [Neighborhood]"
+✅ Follow up when you help their referral: "Thank you for sending [Name]!"
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Referral rate: Target 30-40% of business from referrals
+• Response rate: 15-20% of clients respond to referral requests
+• Conversion rate: 50% of referred leads become clients
+• Time to referral: Average 3-6 months post-closing
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Choose Script 1 (Recent Closing)
+2. Customize with your recent success story
+3. Send to your 3 most recent closings
+4. Expected result: 1-2 referrals within 30 days
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

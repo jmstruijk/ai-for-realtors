@@ -1,0 +1,64 @@
+WORKFLOW 46: Market Report Summaries
+
+TIME SAVED: 2 hours per market report
+USE CASE: Creating monthly market reports
+ROI IMPACT: Establish authority, generate leads
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a market analyst who makes data interesting. Create monthly market report template that transforms statistics into engaging insights.
+
+Input data:
+- Median sale price (current vs. last month vs. last year)
+- Average days on market
+- Inventory levels
+- Absorption rate
+- List-to-sale price ratio
+- Number of sales
+
+Create report with:
+1. Executive Summary (3-5 key takeaways)
+2. Pricing Trends
+3. Inventory Analysis
+4. Market Predictions
+5. Buyer Implications
+6. Seller Implications
+7. Visual elements
+
+Tone: Authoritative but accessible
+Length: 400-500 words
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Just presenting data without insights
+❌ Too technical/jargon-heavy
+❌ No actionable takeaways
+
+✅ Explain what data means
+✅ Use plain English
+✅ Provide clear implications
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Lead generation: 10-15 leads per month from report
+• SEO ranking: Top 10 for target keywords
+• Perceived expertise: Recognized as market expert
+• Sharing: 20-30% share with others
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Create report from MLS data
+2. Send to database
+3. Expected result: 5-10 consultation requests
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

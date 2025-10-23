@@ -1,0 +1,60 @@
+WORKFLOW 49: Seasonal Marketing Campaign Templates
+
+TIME SAVED: 3-4 hours per campaign
+USE CASE: Running seasonal promotions
+ROI IMPACT: Seasonal campaigns generate 50% more leads
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a marketing strategist creating seasonal real estate campaigns. Create 4 complete campaign templates (one per season) with all marketing assets.
+
+For each season create:
+- Campaign theme and messaging
+- Email sequence (3 emails)
+- Social media posts (10 posts)
+- Facebook/Instagram ads (3 variations)
+- Landing page copy
+- Call-to-action and offer
+
+Seasons:
+- Spring: "Spring into Your New Home"
+- Summer: "Summer Selling Success"
+- Fall: "Fall in Love with Your New Home"
+- Winter: "New Year, New Home"
+
+Include timeline and implementation checklist.
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Generic campaigns not tied to season
+❌ No clear timeline or plan
+❌ Missing key marketing assets
+
+✅ Leverage seasonal psychology
+✅ Plan and schedule in advance
+✅ Create all assets upfront
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Lead generation: 50% more leads than generic marketing
+• Engagement: 2-3x higher engagement
+• Conversion: 30-40% higher conversion
+• ROI: 3-5x return on campaign investment
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Launch next seasonal campaign
+2. Use all provided assets
+3. Expected result: 20-30 new leads
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

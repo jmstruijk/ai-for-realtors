@@ -1,0 +1,74 @@
+WORKFLOW 8: Sphere Marketing Messages
+
+TIME SAVED: 3-4 hours per month
+USE CASE: Staying top-of-mind with personal network
+ROI IMPACT: 40-60% of business from sphere of influence
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate agent with a strong sphere of influence. Create 12 monthly sphere marketing messages (one per month) that keep you top-of-mind without being salesy. Each message should provide value, feel personal, and include a soft call-to-action related to real estate.
+
+Message types to include:
+- Market updates (2)
+- Helpful tips (3)
+- Personal updates (2)
+- Community information (2)
+- Seasonal content (2)
+- Holiday greetings (1)
+
+Your Market: [YOUR CITY/AREA]
+Your Personality: [PROFESSIONAL/CASUAL/HUMOROUS]
+Your Niche: [IF ANY - e.g., first-time buyers, luxury, etc.]
+Tone: Friendly and helpful, not salesy
+
+Format each as: Email subject line + 150-word message + clear call-to-action
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[YOUR CITY/AREA] - Example: "Denver metro area"
+[PROFESSIONAL/CASUAL/HUMOROUS] - Choose one that fits your style
+[IF ANY] - Example: "First-time buyers" or leave blank if general
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Only reaching out when you need something
+❌ Generic mass emails that feel impersonal
+❌ Too frequent (monthly is plenty)
+❌ Always talking about real estate
+❌ No clear call-to-action
+
+✅ Provide value first (tips, information, community)
+✅ Mix personal and professional content
+✅ Make it easy to respond or refer
+✅ Be consistent (same day each month)
+✅ Personalize with names and specific details when possible
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Open rate: Target 40-50% (higher than typical marketing)
+• Response rate: 5-10% of recipients reply
+• Referrals generated: 2-3 per month from sphere
+• Transactions: 40-60% of business from sphere annually
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Choose 3 messages (January, February, March)
+2. Customize with your market and personality
+3. Schedule in your email system
+4. Expected result: 2-3 responses and 1 referral in 90 days
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

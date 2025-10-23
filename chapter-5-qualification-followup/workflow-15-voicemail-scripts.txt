@@ -1,0 +1,71 @@
+WORKFLOW 15: Voicemail Scripts That Get Callbacks
+
+TIME SAVED: 30 minutes per day
+USE CASE: Leaving effective voicemails that get returned
+ROI IMPACT: 25-35% callback rate vs. 5-10% with generic voicemails
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate agent who gets callbacks from voicemails. Create 8 different voicemail scripts (30-45 seconds each) for different situations. Each should create curiosity, provide a reason to call back, and include a specific call-to-action.
+
+Situations:
+1. Online lead (first contact)
+2. Open house follow-up
+3. Second attempt (no response to first call)
+4. Third attempt (final try)
+5. Referral introduction
+6. Market update for past client
+7. FSBO/Expired listing
+8. Price drop notification
+
+For each script:
+- Hook (first 5 seconds must grab attention)
+- Value/reason to call back
+- Specific CTA with your number repeated twice
+- Keep under 45 seconds when spoken
+
+Your Name: [YOUR NAME]
+Your Market: [YOUR AREA]
+Your Number: [YOUR PHONE]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[YOUR NAME] - Your full name
+[YOUR AREA] - Example: "Denver metro area"
+[YOUR PHONE] - Your phone number
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Leaving long, rambling messages (over 60 seconds)
+❌ Not saying your number twice and slowly
+❌ Generic "call me back" with no reason
+❌ Sounding desperate or pushy
+❌ Speaking too fast
+
+✅ Hook them in first 5 seconds
+✅ Give specific reason to call back
+✅ Say number twice, slowly
+✅ Sound confident and helpful
+✅ Keep it under 45 seconds
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Callback rate: Target 25-35% (vs. 5-10% industry average)
+• Response time: Most callbacks within 2-4 hours
+• Conversion: 50% of callbacks lead to appointments
+• Best times: Leave voicemails 8-9am or 5-6pm for best callback rates
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

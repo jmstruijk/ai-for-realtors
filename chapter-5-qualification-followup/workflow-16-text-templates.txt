@@ -1,0 +1,59 @@
+WORKFLOW 16: Text Message Templates
+
+TIME SAVED: 1-2 hours per week
+USE CASE: Quick, effective text communication with leads and clients
+ROI IMPACT: 70-80% response rate vs. 25-35% for emails
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate agent who communicates effectively via text. Create 15 text message templates for common situations. Each must be:
+- Short (under 160 characters when possible, max 300)
+- Clear and actionable
+- Easy to respond to (yes/no or simple answer)
+- Professional but casual
+- Include emoji where appropriate (but not excessive)
+
+Situations:
+1. Initial contact (online lead)
+2. Appointment confirmation
+3. Running late notification
+4. Post-showing follow-up
+5. New listing alert
+6. Price drop notification
+7. Offer update
+8. Inspection scheduled
+9. Closing reminder
+10. Thank you after closing
+11. Referral request
+12. Check-in with past client
+13. Open house reminder
+14. Document request
+15. Quick question
+
+Your Name: [YOUR NAME]
+Your Style: [PROFESSIONAL/CASUAL]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[YOUR NAME] - Your first name
+[PROFESSIONAL/CASUAL] - Choose your communication style
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Response rate: 70-80% (vs. 25-35% for email)
+• Response time: Average 15-30 minutes
+• Read rate: 98% (texts almost always read)
+• Preferred method: 60% of clients prefer text over call/email
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

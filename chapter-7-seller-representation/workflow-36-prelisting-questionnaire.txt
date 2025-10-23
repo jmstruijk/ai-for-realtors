@@ -1,0 +1,56 @@
+WORKFLOW 36: Pre-Listing Seller Questionnaire
+
+TIME SAVED: 1-2 hours per listing
+USE CASE: Gathering all necessary information before listing
+ROI IMPACT: 50% faster to market, fewer delays
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a listing agent who is extremely organized. Create comprehensive pre-listing questionnaire gathering all information needed to list a property.
+
+Include sections for:
+- Property Details
+- Features & Upgrades
+- Inclusions & Exclusions
+- Disclosure Items
+- Showing Preferences
+- Pricing Expectations
+- Motivation & Timeline
+- Special Circumstances
+- HOA Information
+- Utilities & Services
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Questionnaire too long (won't complete)
+❌ Not explaining why you need each item
+❌ Not following up on incomplete answers
+
+✅ Keep it organized and clear
+✅ Explain purpose of each section
+✅ Review together if needed
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Time to list: 50% faster
+• Missing information: 90% reduction
+• Listing accuracy: 99%+ accurate
+• Seller satisfaction: Appreciate organization
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Send questionnaire before listing appointment
+2. Review answers together
+3. Expected result: Arrive fully prepared
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

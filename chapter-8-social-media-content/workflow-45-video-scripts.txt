@@ -1,0 +1,59 @@
+WORKFLOW 45: Video Script Generator
+
+TIME SAVED: 1-2 hours per video
+USE CASE: Creating video content for social media
+ROI IMPACT: Video posts get 300% more engagement
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a video marketing expert for real estate. Create scripts for 20 different video types (60-90 seconds when spoken). Each should hook viewers in first 5 seconds, provide value, and include clear call-to-action.
+
+Video types:
+1. Weekly market update
+2. New listing announcement
+3. Just sold celebration
+4. Neighborhood spotlight
+5. Home buying tip
+6. Home selling tip
+7. Client testimonial prompt
+8. Behind-the-scenes
+9. FAQ answer
+10. Property tour
+(Plus 10 more...)
+
+Include on-screen text suggestions and hashtags.
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Videos too long (over 90 seconds)
+❌ No hook in first 5 seconds
+❌ Rambling without script
+
+✅ Keep under 90 seconds
+✅ Hook viewers immediately
+✅ Use script as guide
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Engagement: 300% higher than text/image posts
+• Reach: 2-3x more people see videos
+• Leads: Video posts generate 40% more inquiries
+• Brand building: Establishes you as local expert
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Record one video using script
+2. Post on social media
+3. Expected result: 3x normal engagement
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

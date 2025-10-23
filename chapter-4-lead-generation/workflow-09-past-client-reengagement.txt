@@ -1,0 +1,72 @@
+WORKFLOW 9: Past Client Re-engagement Campaigns
+
+TIME SAVED: 2-3 hours per campaign
+USE CASE: Reactivating relationships with past clients
+ROI IMPACT: 20-30% increase in repeat/referral business
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a real estate agent reconnecting with past clients you haven't spoken to in a while. Create a 3-email re-engagement sequence that feels natural, provides value, and rebuilds the relationship without being pushy or desperate.
+
+Email 1: Friendly check-in with value (no ask)
+Email 2: Market update relevant to their situation (soft ask)
+Email 3: Specific offer to help (clear call-to-action)
+
+Time since last contact: [6 MONTHS / 1 YEAR / 2+ YEARS]
+Original transaction: [BOUGHT / SOLD / BOTH]
+Property type: [THEIR HOME TYPE]
+Your market: [YOUR AREA]
+Tone: Warm and genuine, acknowledging the time gap
+
+Space emails 7-10 days apart.
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[6 MONTHS / 1 YEAR / 2+ YEARS] - Choose the time gap
+[BOUGHT / SOLD / BOTH] - What transaction did you help them with?
+[THEIR HOME TYPE] - Example: "3-bedroom home in Oak Hills"
+[YOUR AREA] - Example: "Denver metro area"
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Pretending no time has passed ("Just following up...")
+❌ Being too salesy in first contact
+❌ Not acknowledging the relationship gap
+❌ Giving up after one email
+❌ Making it all about you and your needs
+
+✅ Acknowledge the time gap honestly
+✅ Provide value before asking for anything
+✅ Make it easy to respond (specific questions)
+✅ Be patient—relationships take time to rebuild
+✅ Follow up consistently but not annoyingly
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Open rate: 30-40% (lower than active clients but still good)
+• Response rate: 10-15% reply to sequence
+• Re-engagement rate: 5-8% become active again
+• ROI: 1-2 transactions per 100 past clients contacted
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Identify 10 past clients you haven't contacted in 1+ year
+2. Customize Email 1 with their specific details
+3. Send today, schedule Emails 2 & 3 for next 2 weeks
+4. Expected result: 1-2 responses, potential for 1 referral or listing
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

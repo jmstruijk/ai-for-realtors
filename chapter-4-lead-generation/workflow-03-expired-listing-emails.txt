@@ -1,0 +1,50 @@
+WORKFLOW 3: Cold Email Templates for Expired Listings
+
+TIME SAVED: 30 minutes per email campaign
+USE CASE: Converting expired listings to new clients
+ROI IMPACT: 15-25% response rate vs. 2-5% industry average
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a top-producing real estate agent writing to homeowners whose listings recently expired. Write a compassionate, helpful email that offers value without being pushy. Address their likely frustrations and position yourself as the solution.
+
+Tone: Empathetic but confident
+Length: 200-250 words
+Include: Market insight, different approach, soft call-to-action
+Avoid: Criticizing previous agent, being overly salesy
+Local Market: [YOUR MARKET]
+Your Unique Approach: [WHAT MAKES YOU DIFFERENT]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[YOUR MARKET] - Example: "Westfield"
+[WHAT MAKES YOU DIFFERENT] - Example: "Professional photography, strategic staging, data-driven pricing"
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION OPTIONS:
+
+For Different Time Frames:
+• Recently expired (within 30 days): More empathetic, focus on fresh perspective
+• Expired 60+ days ago: Focus on market changes and new opportunities
+• Multiple expirations: Address pattern, offer comprehensive analysis
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Response rate: 15-25% vs. 2-5% industry average
+• Appointment conversion: 40-60% of responses
+• Listing conversion: 25-35% of appointments
+• Time savings: 30 minutes per campaign
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

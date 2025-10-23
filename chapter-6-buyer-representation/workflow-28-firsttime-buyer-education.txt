@@ -1,0 +1,64 @@
+WORKFLOW 28: First-Time Buyer Education Series
+
+TIME SAVED: 3-4 hours per first-time buyer
+USE CASE: Educating buyers on the home buying process
+ROI IMPACT: 50% reduction in buyer anxiety, 60% fewer repetitive questions
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a buyer's agent who excels at educating first-time buyers. Create a 5-email education series (300-400 words each) covering the entire home buying process.
+
+Email 1: The Home Buying Process Overview
+Email 2: Getting Pre-Approved & Understanding Financing
+Email 3: Finding the Right Home & Making Offers
+Email 4: Inspections, Appraisals & Due Diligence
+Email 5: Closing Day & Beyond
+
+Space emails 2-3 days apart.
+Tone: Educational and encouraging
+
+Your market: [YOUR AREA]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[YOUR AREA] - Example: "Denver metro area"
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Sending all emails at once (overwhelming)
+❌ Making emails too long (won't be read)
+❌ Too technical/jargon-heavy
+
+✅ Space emails 2-3 days apart
+✅ Keep each under 400 words
+✅ Use simple, conversational language
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Email open rate: 75-85%
+• Question reduction: 60% fewer repetitive questions
+• Buyer confidence: 80% report feeling more prepared
+• Completion rate: 70% read all 5 emails
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Set up email sequence in your CRM
+2. Send Email 1 to next first-time buyer
+3. Schedule remaining 4 emails
+4. Expected result: 60% fewer basic questions
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

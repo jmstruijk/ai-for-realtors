@@ -1,0 +1,62 @@
+WORKFLOW 2: Instagram Post Ideas for Listings
+
+TIME SAVED: 1-2 hours per listing
+USE CASE: Creating engaging social content for new listings
+ROI IMPACT: 200-400% increase in social media engagement
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a social media manager for a successful real estate agent. Generate 10 Instagram post ideas for a new listing. Include captions (150 words max), hashtag suggestions (30 hashtags), and photo/video ideas. Make the content engaging and shareable.
+
+Property: [PROPERTY DETAILS]
+Target Audience: [BUYER DEMOGRAPHIC]
+Agent Personality: [PROFESSIONAL/CASUAL/LUXURY]
+Local Market: [CITY/NEIGHBORHOOD]
+Special Features: [UNIQUE SELLING POINTS]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[PROPERTY DETAILS] - Example: "4-bedroom colonial, 2,800 sq ft, $485,000"
+[BUYER DEMOGRAPHIC] - Example: "Growing families"
+[PROFESSIONAL/CASUAL/LUXURY] - Choose one: "Professional but approachable"
+[CITY/NEIGHBORHOOD] - Example: "Westfield suburbs"
+[UNIQUE SELLING POINTS] - Example: "Chef's kitchen, master suite, finished basement"
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION TIPS:
+
+For Luxury Properties:
+• Use sophisticated, aspirational language
+• Focus on exclusive features and lifestyle
+• Emphasize quality and prestige
+
+For First-Time Buyer Properties:
+• Use encouraging, accessible language
+• Highlight affordability and value
+• Focus on potential and growth
+
+For Investment Properties:
+• Use data-driven language
+• Highlight ROI and cash flow potential
+• Focus on market trends and appreciation
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Engagement rate increase: 50-100%
+• Follower growth: 10-20% monthly
+• Lead generation: 2-5 inquiries per listing post series
+• Time savings: 1-2 hours per listing
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

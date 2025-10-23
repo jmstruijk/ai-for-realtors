@@ -1,0 +1,62 @@
+WORKFLOW 21: Pre-approval Explanation Scripts
+
+TIME SAVED: 45 minutes per buyer
+USE CASE: Educating buyers about the financing process
+ROI IMPACT: 60% reduction in financing-related questions and delays
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a buyer's agent explaining the pre-approval process to a [BUYER TYPE]. Create a clear, jargon-free explanation that covers what pre-approval is, why it's important, what documents they'll need, and what to expect. Address common concerns and misconceptions.
+
+Audience: [BUYER TYPE]
+Tone: Educational but reassuring
+Length: 300-400 words
+Include: Action steps, timeline, benefits
+Local Market: [YOUR AREA]
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[BUYER TYPE] - Example: "First-time buyers" or "Move-up buyers" or "Investors"
+[YOUR AREA] - Example: "Denver metro area"
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION FOR DIFFERENT BUYER TYPES:
+
+For First-Time Buyers:
+• More detailed explanations
+• Address anxiety and uncertainty
+• Include timeline and process overview
+• Emphasize support and guidance
+
+For Move-Up Buyers:
+• Focus on timing coordination
+• Address bridge loans and contingencies
+• Discuss rate locks and timing
+• Include equity and down payment strategies
+
+For Investors:
+• Different loan products and requirements
+• Cash flow and investment analysis
+• Portfolio lending options
+• Tax implications and strategies
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Financing delays reduced: 60%
+• Buyer questions reduced: 70%
+• Pre-approval completion rate: 95%+
+• Client confidence scores: +40%
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID

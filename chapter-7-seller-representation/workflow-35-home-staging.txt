@@ -1,0 +1,66 @@
+WORKFLOW 35: Home Staging Advice & Checklists
+
+TIME SAVED: 2 hours per listing
+USE CASE: Preparing homes for photography and showings
+ROI IMPACT: Staged homes sell for 5-10% more, 50% faster
+
+═══════════════════════════════════════════════════════════════
+
+THE COMPLETE PROMPT:
+
+You are a home staging expert. Create comprehensive staging guide for seller preparing home for market.
+
+Property type: [SINGLE FAMILY/CONDO/LUXURY]
+Budget: [LOW/MEDIUM/HIGH]
+Timeline: [WEEKS UNTIL LISTING]
+
+Include:
+- Decluttering checklist
+- Deep cleaning guide
+- Staging tips (room by room)
+- Curb appeal improvements
+- Budget-friendly updates
+- What to fix vs. what to leave
+
+═══════════════════════════════════════════════════════════════
+
+CUSTOMIZATION VARIABLES:
+
+Replace these with your specific information:
+
+[SINGLE FAMILY/CONDO/LUXURY] - Choose property type
+[LOW/MEDIUM/HIGH] - Choose budget level
+[WEEKS UNTIL LISTING] - Example: "2 weeks" or "4 weeks"
+
+═══════════════════════════════════════════════════════════════
+
+COMMON MISTAKES TO AVOID:
+
+❌ Generic advice not specific to property
+❌ Overwhelming sellers with too much
+❌ Not prioritizing by impact
+
+✅ Customize to their property and budget
+✅ Focus on high-impact items first
+✅ Provide specific, actionable steps
+
+═══════════════════════════════════════════════════════════════
+
+SUCCESS METRICS:
+
+• Sale price: 5-10% higher when staged
+• Days on market: 50% faster
+• Photography quality: Dramatically improved
+• Showing feedback: 80%+ positive comments
+
+═══════════════════════════════════════════════════════════════
+
+QUICK WIN (5 minutes):
+1. Give checklist to next seller
+2. Review before photography
+3. Expected result: Better photos, faster sale
+
+═══════════════════════════════════════════════════════════════
+
+From "AI For Realtors" by J.M. Struijk
+Get the complete book: https://amazon.com/dp/YOUR-BOOK-ID
